@@ -1,0 +1,16 @@
+[
+  "age",
+  "mileage",
+  "engine_disp_l",
+  "engine_cyl",
+  "driver_rating",
+  "seller_rating",
+  "price_drop",
+  "manufacturer",
+  "model_reduced",
+  "transmission",
+  "drivetrain",
+  "fuel_type",
+  "exterior_color_reduced",
+  "interior_color_reduced"
+]
